@@ -1,5 +1,5 @@
 # CommonSeachCode
-Helps to use code that i search and probably will use un future
+Helps me to find quick code i searched and probably  use in future.
 
 
 # Uso de archivos embebidos en libreria de clases c#
